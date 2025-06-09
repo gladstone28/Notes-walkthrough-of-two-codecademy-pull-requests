@@ -22,3 +22,4 @@ second
 https://github.com/Codecademy/gamut/pull/1598
 
 
+![](./pull-request-illustration-graphic.png)
