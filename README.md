@@ -11,11 +11,11 @@ https://www.youtube.com/watch?v=9EqP3GsE9N4
 
 **link to the pull request in the video** 
 
-* first *
+*first*
 
 https://github.com/Codecademy/docs/pull/384
 
-* second * 
+*second* 
 
 https://github.com/Codecademy/gamut/pull/1598
 
